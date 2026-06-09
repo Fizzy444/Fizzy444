@@ -57,10 +57,6 @@ Here are some things I’m working on:
 
 ## 📊 GitHub Stats
 
-![Mithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fizzy444&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fizzy444&theme=tokyonight)
