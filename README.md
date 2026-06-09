@@ -75,8 +75,8 @@ Here are some things I’m working on:
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINK  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://www.linkedin.com/in/mithun-a-515335217/  
+- 📧 Email: mr.mithun2521@gmail.com
 
 ---
 
