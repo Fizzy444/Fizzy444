@@ -57,8 +57,6 @@ Here are some things I’m working on:
 
 ## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fizzy444&theme=tokyonight)
 
 ---
