@@ -75,6 +75,8 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 <!--START_SECTION:activity-->
+1. 🔒 Closed issue [#3](https://github.com/Fizzy444/leetcode-solutions/issues/3) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
+2. 🔒 Closed issue [#2](https://github.com/Fizzy444/leetcode-solutions/issues/2) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
 <!--END_SECTION:activity-->
 
 <p align="center">
