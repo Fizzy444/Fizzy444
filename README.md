@@ -1,18 +1,21 @@
 <h1 align="center">Hi, I'm Mithun 👋</h1>
-
 <p align="center">
 AI & Data Science student · building self-hosted tools, local-first AI, and the occasional bot that plays video games better than I do
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mithun-a-515335217/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/></a>
-  <a href="mailto:mr.mithun2521@gmail.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/></a>
+  <a href="https://www.linkedin.com/in/mithun-a-515335217/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mr.mithun2521@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-catfoundyou-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧠 About Me
-
 - 🎓 2nd-year undergrad, Artificial Intelligence & Data Science (India)
 - 🎯 Focused on mastering Data Structures & Algorithms alongside AI/ML fundamentals
 - 🛠️ I like building things fully self-hosted, free-alternative, and from scratch
@@ -23,7 +26,6 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 ### 🌱 Latest Projects
-
 | Project | Description |
 |---|---|
 | **[Indian Law LLM](https://github.com/Fizzy444/RAG-Powered-Indian-Law-Question-Answering-System)** | RAG-based legal QA app — Flask, FAISS, Mistral 7B, NLLB translation for regional languages |
@@ -36,7 +38,6 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 ### 📈 Currently Working On
-
 - 🔹 Improving problem-solving skills (DSA)
 - 🔹 Training the NEAT Geometry Dash bot
 - 🔹 Strengthening core AI/ML concepts
@@ -45,11 +46,12 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fizzy444&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Fizzy444&show_icons=true&theme=dark&hide_border=true" width="100%"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=dark&hide_border=true" width="100%"/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Fizzy444&theme=dark&hide_border=true" width="70%"/>
@@ -58,7 +60,6 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 ### 🔧 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,git,linux" />
 </p>
@@ -66,7 +67,6 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 ---
 
 ### 🎯 Goals
-
 - 🚀 Become highly skilled in AI & Data Science
 - 🧠 Build impactful real-world projects
 - 💡 Contribute to open-source
