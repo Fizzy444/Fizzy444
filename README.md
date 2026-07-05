@@ -26,7 +26,7 @@ AI & Data Science student · building self-hosted tools, local-first AI, and the
 
 | Project | Description |
 |---|---|
-| **[Indian Law LLM]([https://github.com/Fizzy444/REPO](https://github.com/Fizzy444/RAG-Powered-Indian-Law-Question-Answering-System))** | RAG-based legal QA app — Flask, FAISS, Mistral 7B, NLLB translation for regional languages |
+| **[Indian Law LLM](https://github.com/Fizzy444/RAG-Powered-Indian-Law-Question-Answering-System)** | RAG-based legal QA app — Flask, FAISS, Mistral 7B, NLLB translation for regional languages |
 | **[SkillDex](https://github.com/Fizzy444/SkillDex)** | AI-powered resume analyzer with skill development & to-do tracking |
 | **[ClipForge](https://github.com/Fizzy444/ClipForge)** | Fast, minimal YouTube downloader with clip extraction, high-quality encoding, and support for restricted videos using cookies |
 | **[LeetHub-2.0](https://github.com/Fizzy444/LeetHub-2.0)** | Automatically syncs your LeetCode solutions to GitHub |
