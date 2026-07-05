@@ -58,15 +58,24 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats-olive-iota-17.vercel.app/api?username=Fizzy444&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img
+  width="49%"
+  src="https://github-readme-stats-olive-iota-17.vercel.app/api?username=Fizzy444&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&custom_title=Mithun%20A's%20GitHub%20Stats&v=20260705"
+/>
 
-<img width="49%" src="https://github-readme-stats-olive-iota-17.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=github_dark&hide_border=true"/>
+<img
+  width="49%"
+  src="https://github-readme-stats-olive-iota-17.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=20260705"
+/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Fizzy444&theme=github-dark-blue&hide_border=true"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Fizzy444&theme=github-dark-blue&hide_border=true"
+/>
 
 </p>
 
