@@ -1,86 +1,110 @@
-<h1 align="center">Hi, I'm Mithun 👋</h1>
+<h1 align="center">Hi 👋, I'm Mithun</h1>
+
 <p align="center">
-AI & Data Science student · building self-hosted tools, local-first AI, and the occasional bot that plays video games better than I do
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Local-First+AI+Tools;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+AI & Data Science student passionate about AI, self-hosted software, and building projects that solve real-world problems.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mithun-a-515335217/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:mr.mithun2521@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <img src="https://img.shields.io/badge/Discord-catfoundyou-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 2nd-year undergrad, Artificial Intelligence & Data Science (India)
-- 🎯 Focused on mastering Data Structures & Algorithms alongside AI/ML fundamentals
-- 🛠️ I like building things fully self-hosted, free-alternative, and from scratch
-- 🤖 Currently training a NEAT-based AI to play Geometry Dash via a custom C++ Geode mod
-- ⚙️ Daily driver: Lenovo IdeaPad, Ryzen 5 7520U, no dedicated GPU — CPU-bound and proud
-- 🎮 Off the keyboard: Geometry Dash, Hollow Knight Silksong, chaotic multiplayer nights
+# 🧠 About Me
+
+- 🎓 2nd Year Artificial Intelligence & Data Science Student
+- 💻 Passionate about AI, Machine Learning and System Design
+- 🚀 Solving DSA while building real-world applications
+- 🤖 Developing a NEAT-powered AI that plays Geometry Dash using a custom C++ Geode mod
+- 🛠️ Love building self-hosted, local-first software
+- ⚙️ Daily Driver: Lenovo IdeaPad • Ryzen 5 7520U • Linux & Windows
 
 ---
 
-### 🌱 Latest Projects
+# 🚀 Featured Projects
+
 | Project | Description |
-|---|---|
-| **[Indian Law LLM](https://github.com/Fizzy444/RAG-Powered-Indian-Law-Question-Answering-System)** | RAG-based legal QA app — Flask, FAISS, Mistral 7B, NLLB translation for regional languages |
-| **[SkillDex](https://github.com/Fizzy444/SkillDex)** | AI-powered resume analyzer with skill development & to-do tracking |
-| **[ClipForge](https://github.com/Fizzy444/ClipForge)** | Fast, minimal YouTube downloader with clip extraction, high-quality encoding, and support for restricted videos using cookies |
-| **[LeetHub-2.0](https://github.com/Fizzy444/LeetHub-2.0)** | Automatically syncs your LeetCode solutions to GitHub |
-
-*(More projects coming soon...)*
+|---------|-------------|
+| **Indian Law LLM** | RAG-powered legal assistant built with Flask, FAISS, Mistral 7B and multilingual support. |
+| **SkillDex** | AI resume analyzer with personalized skill-gap analysis and learning roadmap. |
+| **ClipForge** | High-performance YouTube downloader with clip extraction and cookie authentication. |
+| **LeetHub-2.0** | Automatically synchronizes accepted LeetCode solutions to GitHub repositories. |
 
 ---
 
-### 📈 Currently Working On
-- 🔹 Improving problem-solving skills (DSA)
-- 🔹 Training the NEAT Geometry Dash bot
-- 🔹 Strengthening core AI/ML concepts
-- 🔹 Learning system design basics
+# 🌱 Currently Learning
+
+- 📚 Data Structures & Algorithms
+- 🤖 Machine Learning Fundamentals
+- 🧠 Large Language Models
+- ⚙️ System Design
+- 🚀 Backend Development
 
 ---
 
-### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Fizzy444&show_icons=true&theme=dark&hide_border=true" width="100%"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=dark&hide_border=true" width="100%"/></td>
-  </tr>
-</table>
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fizzy444&theme=dark&hide_border=true" width="70%"/>
+
+<img width="49%" src="https://github-readme-stats-olive-iota-17.vercel.app/api?username=Fizzy444&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats-olive-iota-17.vercel.app/api/top-langs/?username=Fizzy444&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Fizzy444&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🔧 Tech Stack
+# 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,flask,git,linux" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,flask,mysql,git,github,linux,vscode&perline=6"/>
+
 </p>
 
 ---
 
-### 🎯 Goals
-- 🚀 Become highly skilled in AI & Data Science
-- 🧠 Build impactful real-world projects
-- 💡 Contribute to open-source
-- 🏆 Crack top tech opportunities
+# 🎯 Goals
+
+- 🚀 Become an AI Engineer
+- 🧠 Build impactful AI products
+- 🌍 Contribute to Open Source
+- 🏆 Crack top software engineering opportunities
+- 📈 Keep learning every day
 
 ---
+
+## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Fizzy444/leetcode-solutions/issues/3) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
-2. 🔒 Closed issue [#2](https://github.com/Fizzy444/leetcode-solutions/issues/2) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
 <!--END_SECTION:activity-->
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fizzy444&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=Fizzy444&label=Profile%20Views&style=for-the-badge"/>
+
 </p>
 
-<p align="center"><i>Consistency > Motivation ⚡</i></p>
+<p align="center">
+<i>"Consistency beats motivation."</i>
+</p>
