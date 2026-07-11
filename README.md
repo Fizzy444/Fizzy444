@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Fizzy444/leetcode-solutions/issues/3) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
-2. 🔒 Closed issue [#2](https://github.com/Fizzy444/leetcode-solutions/issues/2) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
+1. 🚀 Published release [Apk release](https://github.com/Fizzy444/ClipForge/releases/tag/v.1.2.1) in [Fizzy444/ClipForge](https://github.com/Fizzy444/ClipForge)
+2. 🔒 Closed issue [#3](https://github.com/Fizzy444/leetcode-solutions/issues/3) in [Fizzy444/leetcode-solutions](https://github.com/Fizzy444/leetcode-solutions)
 <!--END_SECTION:activity-->
 
 ---
