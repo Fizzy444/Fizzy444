@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ClipForge for android](https://github.com/Fizzy444/ClipForge-Android/releases/tag/v.02) in [Fizzy444/ClipForge-Android](https://github.com/Fizzy444/ClipForge-Android)
-2. 🚀 Published release [Apk release](https://github.com/Fizzy444/ClipForge/releases/tag/v.1.2.1) in [Fizzy444/ClipForge](https://github.com/Fizzy444/ClipForge)
+1. 🚀 Published release [WinterLock v1.0.2](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.0.2) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
+2. 🚀 Published release [WinterLock v1.0.1](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.0.1) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
 <!--END_SECTION:activity-->
 
 ---
