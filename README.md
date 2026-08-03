@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [WinterLock v1.0.2](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.0.2) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
-2. 🚀 Published release [WinterLock v1.0.1](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.0.1) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
+1. 🚀 Published release [WinterLock v1.1.0](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.1.0) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
+2. 🚀 Published release [WinterLock v1.0.3](https://github.com/Fizzy444/plasma-winterlock/releases/tag/v1.0.3) in [Fizzy444/plasma-winterlock](https://github.com/Fizzy444/plasma-winterlock)
 <!--END_SECTION:activity-->
 
 ---
