@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#863](https://github.com/tauri-apps/awesome-tauri/pull/863) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
-2. ❌ Closed PR [#862](https://github.com/tauri-apps/awesome-tauri/pull/862) in [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+1. ❗ Opened issue [#1](https://github.com/jinesh-06/Scheme-finder/issues/1) in [jinesh-06/Scheme-finder](https://github.com/jinesh-06/Scheme-finder)
+2. 🚀 Published release [v2.0.0 — Dynamic yt-dlp & In-App Updates](https://github.com/Fizzy444/ClipForge/releases/tag/v2.0.0) in [Fizzy444/ClipForge](https://github.com/Fizzy444/ClipForge)
 <!--END_SECTION:activity-->
 
 ---
