@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/rohini8307-dev/Receptra--Voice_Agent/issues/1) in [rohini8307-dev/Receptra--Voice_Agent](https://github.com/rohini8307-dev/Receptra--Voice_Agent)
-2. ❗ Opened issue [#1](https://github.com/jinesh-06/Scheme-finder/issues/1) in [jinesh-06/Scheme-finder](https://github.com/jinesh-06/Scheme-finder)
+1. 🎉 Merged PR [#2](https://github.com/Fizzy444/watch-together/pull/2) in [Fizzy444/watch-together](https://github.com/Fizzy444/watch-together)
+2. 💪 Opened PR [#2](https://github.com/Fizzy444/watch-together/pull/2) in [Fizzy444/watch-together](https://github.com/Fizzy444/watch-together)
 <!--END_SECTION:activity-->
 
 ---
