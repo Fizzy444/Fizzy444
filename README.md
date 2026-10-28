@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Fizzy444/devops-intern-final/pull/1) in [Fizzy444/devops-intern-final](https://github.com/Fizzy444/devops-intern-final)
-2. 🎉 Merged PR [#2](https://github.com/Fizzy444/devops-intern-final/pull/2) in [Fizzy444/devops-intern-final](https://github.com/Fizzy444/devops-intern-final)
+1. 🚀 Published release [v1.0.0 - DevOps Final Assessment](https://github.com/Fizzy444/devops-intern-final/releases/tag/v1.0.0) in [Fizzy444/devops-intern-final](https://github.com/Fizzy444/devops-intern-final)
+2. 🎉 Merged PR [#1](https://github.com/Fizzy444/devops-intern-final/pull/1) in [Fizzy444/devops-intern-final](https://github.com/Fizzy444/devops-intern-final)
 <!--END_SECTION:activity-->
 
 ---
