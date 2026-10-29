@@ -24,7 +24,7 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 
 # 🧠 About Me
 
-- 🎓 2nd Year Artificial Intelligence & Data Science Student
+- 🎓 3rd Year Artificial Intelligence & Data Science Student
 - 💻 Passionate about AI, Machine Learning and System Design
 - 🚀 Solving DSA while building real-world applications
 - 🤖 Developing a NEAT-powered AI that plays Geometry Dash using a custom C++ Geode mod
