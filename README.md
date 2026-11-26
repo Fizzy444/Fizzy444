@@ -104,8 +104,8 @@ AI & Data Science student passionate about AI, self-hosted software, and buildin
 ## 📈 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Fizzy444/Test/pull/3) in [Fizzy444/Test](https://github.com/Fizzy444/Test)
-2. ❌ Closed PR [#1](https://github.com/Fizzy444/Test/pull/1) in [Fizzy444/Test](https://github.com/Fizzy444/Test)
+1. 🎉 Merged PR [#3](https://github.com/Fizzy444/watch-together/pull/3) in [Fizzy444/watch-together](https://github.com/Fizzy444/watch-together)
+2. 💪 Opened PR [#3](https://github.com/Fizzy444/watch-together/pull/3) in [Fizzy444/watch-together](https://github.com/Fizzy444/watch-together)
 <!--END_SECTION:activity-->
 
 ---
